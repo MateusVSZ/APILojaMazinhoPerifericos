@@ -1,0 +1,6 @@
+com\vsz\br\apimazinhoperifericos\model\Produto.class
+com\vsz\br\apimazinhoperifericos\service\ProdutoService.class
+com\vsz\br\apiperifericos\util\Conexao.class
+com\vsz\br\apimazinhoperifericos\ApiPerifericos.class
+com\vsz\br\apimazinhoperifericos\controller\ProdutoController.class
+com\vsz\br\apimazinhoperifericos\dao\ProdutoDAO.class

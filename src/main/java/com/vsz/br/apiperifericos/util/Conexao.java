@@ -23,6 +23,7 @@ public class Conexao {
     public static Connection conectar() throws ClassNotFoundException {
 
         try {
+            
             Class.forName(driver);
             return DriverManager.getConnection(url, usuario, senha);
         

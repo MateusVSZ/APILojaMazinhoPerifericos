@@ -21,6 +21,14 @@ public class Produto {
     public Produto() {
     }
 
+    public Produto(Long id, String nome, String tipo, double preco, int qtd) {
+        this.id = id;
+        this.nome = nome;
+        this.tipo = tipo;
+        this.preco = preco;
+        this.qtd = qtd;
+    }
+
     @Override
     public int hashCode() {
         int hash = 3;
